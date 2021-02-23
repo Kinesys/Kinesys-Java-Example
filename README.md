@@ -1,2 +1,2 @@
-# Kinesys-Java-Example
-Java Programming
+# Kinesys-C++-Example
+C++ Programming
